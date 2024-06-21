@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/notificatios-page-solution-QgicEb1s-f)
-- Live Site URL: [Add live site URL here](https://pex-dev.github.io/notifications-page/)
+- Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/notificatios-page-solution-QgicEb1s-f)
+- Live Site URL: [Live Site](https://pex-dev.github.io/notifications-page/)
 
 ## My process
 
