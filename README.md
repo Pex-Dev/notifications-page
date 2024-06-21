@@ -59,7 +59,7 @@ Users should be able to:
 
 ### Continued development
 
-En el futuro, me centraré en aprender más sobre cómo hacer que las páginas web sean más interactivas utilizando JavaScript. También me dedicaré a mejorar mi capacidad para escribir código más organizado y legible. Siento que aún me queda mucho por aprender en estas áreas y estoy comprometido a seguir creciendo profesionalmente en ellas.
+In the future, I will focus on learning more about making web pages more interactive using JavaScript. I will also dedicate myself to improving my ability to write more organized and readable code. I feel there is still much for me to learn in these areas, and I am committed to continuing to grow professionally in them.
 
 ## Author
 
