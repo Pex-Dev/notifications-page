@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Plus Jakarta Sans';
+    src: url('../assets/fonts/PlusJakartaSans-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Plus Jakarta Sans bold';
+    src: url('../assets/fonts/PlusJakartaSans-ExtraBold.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+$fuente: 'Plus Jakarta Sans', sans-serif;
+$fuenteBold: 'Plus Jakarta Sans bold', sans-serif;
+$negro: black;
+$blanco: hsl(0, 0%, 100%);
+$blancoTitan: #E5EFF9;
+$rojo: #ff4e4e;
+$azulOscuro: #063376;
+$azulTurquesa: #F8F9FD;
+$gris: #606573;
+$grisClaro: #ecf0f3;
+$azul-muy-claro-grisaceo: hsl(210, 60%, 98%);
+$azul-claro-grisaceo-1: hsl(211, 68%, 94%);
+$azul-claro-grisaceo-2: hsl(205, 33%, 90%);
+$azul-grisaceo: hsl(219, 14%, 63%);
+$azul-gris-oscuro: hsl(219, 12%, 42%);
+$azul-muy-oscuro: hsl(224, 21%, 14%);
