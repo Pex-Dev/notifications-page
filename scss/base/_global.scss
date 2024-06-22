@@ -39,3 +39,16 @@ img{
     width: 4.5rem;
     height: 4.5rem;
 }
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: v.$gris;
+}

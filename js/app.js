@@ -11,7 +11,7 @@ function getNumberOfUnreadNotifications(){
 }
 
 function setAsReadButton(){  
-    const setReadButton = document.querySelector('#setRead');
+    const setReadButton = document.querySelector('.setReadButton');
     setReadButton.addEventListener('click',() =>{
         const notifications = getUnreadNotifications();//Gets all unread notifications
         notifications.forEach(notification => {
